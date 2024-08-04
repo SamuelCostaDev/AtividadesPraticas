@@ -23,5 +23,5 @@ Para usar o projeto, siga os seguintes passos:
 2. Extraia o arquivo na pasta do servidor local
    - Caso seja o Xampp: ````C:\xampp\htdocs\AtividadesPraticas````
    - Caso seja o Laragon: ````C:\laragon\www\AtividadesPraticas````
-3. Agora basta executar o projeto. Ex.: ````localhost/AtividadesPraticas/````
+3. Agora basta executar o projeto. Ex.: ````http://localhost/AtividadesPraticas/Desafio%202.1/````
 
